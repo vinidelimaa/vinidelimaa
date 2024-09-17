@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinidelimaa" alt="vinidelimaa" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, Typescript..**
+- 🌱 I’m currently learning **Python, SQL, Tableau..**
 
 - 📝 I regularly write articles on [https://medium.com/@vinidelimaa](https://medium.com/@vinidelimaa)
 
